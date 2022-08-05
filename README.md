@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crystalbajgai&label=Profile%20views&color=0e75b6&style=flat" alt="crystalbajgai" /> </p>
 
-- 🔭 I’m currently working on my [website](crystal.is-a.dev)
+- 🔭 I’m currently working on my <a href="https://crystal.is-a.dev/" target="blank">Website</a>
 
 - 🌱 I’m currently learning **C**
 
