@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [crystal.is-a.dev](crystal.is-a.dev)
 
-- 📝 I regularly write articles on [blog.crystal.is-a.dev](blog.crystal.is-a.dev)
+- 📝 I regularly write articles on nothign atm.
 
 - 💬 Ask me about **nothing**
 
