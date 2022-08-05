@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crystalbajgai&label=Profile%20views&color=0e75b6&style=flat" alt="crystalbajgai" /> </p>
 
-- 🔭 I’m currently working on my <a href="https://crystal.is-a.dev/" target="blank">Website</a>
+- 🔭 I’m currently working on my <a href="https://crystal.is-a.dev/" target="_blank">website</a>
 
 - 🌱 I’m currently learning **C**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **JS 💀**
 
-- 👨‍💻 All of my projects are available at [crystal.is-a.dev](crystal.is-a.dev)
+- 👨‍💻 All of my projects are available at <a href="https://crystal.is-a.dev/" target="_blank">crystal.is-a.dev</a>
 
 - 📝 I regularly write articles on nothign atm.
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/crystalbajgai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="crystalbajgai" height="30" width="40" /></a>
+<a href="https://dev.to/crystalbajgai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="crystalbajgai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
