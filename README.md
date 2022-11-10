@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Crystal Bajgai.</h1>
+<h1 align="center">Hi 👋, I'm Crystal.</h1>
 <h3 align="center">A student from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crystalbajgai&label=Profile%20views&color=0e75b6&style=flat" alt="crystalbajgai" /> </p>
 
 - 🔭 I’m currently working on my <a href="https://crystal.is-a.dev/" target="_blank">website</a>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **nothing atm**
 
