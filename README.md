@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **nothing**
 
-- 📫 How to reach me **crystalnplol@gmail.com**
+- 📫 How to reach me **crystal@crystal.is-a.dev**
 
 - ⚡ Fun fact **I suck at everything.**
 
