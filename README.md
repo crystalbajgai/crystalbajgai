@@ -15,7 +15,7 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://crystal.is-a.dev/" target="_blank"> 📃Contact Form (idk who would fill it, i def wouldn't.)</a>
+<a href="https://crystal.is-a.dev/" target="_blank"> 📃Contact Form (idk who would fill it, i def wouldn't.) </a>
  Discord - **Crissy#7622** (definitely hit me up here, way more active then i should be)
  Email: <a href="mailto:crystal@crystal.is-a.dev" id="mail">crystal@crystal.is-a.dev</a>
 </p>
