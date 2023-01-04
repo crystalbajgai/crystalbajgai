@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Crystal.</h1>
-<h3 align="center">A student from Nepal.</h3>
+<h1 align="center">Hi, I'm Crystal.</h1>
+<h3 align="center">Just a random guy intrested in CS. I am just a student and I am learning some langauges ig?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crystalbajgai&label=Profile%20views&color=0e75b6&style=flat" alt="crystalbajgai" /> </p>
 
