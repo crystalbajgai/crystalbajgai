@@ -14,9 +14,7 @@
 - ⚡ Fun fact **I suck at everything.**
 
 <h3 align="left">Contact me:</h3>
-<p align="left">
 <a href="https://crystal.is-a.dev/" target="_blank"> 📃Contact Form (idk who would fill it, i def wouldn't.) </a> <br><br>
 <img src = "https://user-images.githubusercontent.com/66400444/210599484-1c7ce6bc-733c-4579-97a5-f1d3092c69e8.png" alt="discord emoji" width="20px" height="19px" />
- Discord - Crissy#7622 (definitely hit me up here, way more active then i should be)<br><br>
+ Discord - **Crissy#7622** (definitely hit me up here, way more active then i should be)<br><br>
  ✉️Email: <a href="mailto:crystal@crystal.is-a.dev" id="mail">crystal@crystal.is-a.dev</a><br><br>
-</p>
