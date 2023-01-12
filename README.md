@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Crystal.</h1>
 <h3 align="center">Just a random guy intrested in CS. I am just a student and I am learning some langauges ig?</h3>
 
-- 🔭 I’m currently working on my <a href="https://crystal.is-a.dev/" target="_blank">crystal.is-a.dev</a>
+- 🔭 I’m currently working on <a href="https://crystal.is-a.dev/" target="_blank">crystal.is-a.dev</a>
 
-- 🌱 I’m currently learning **Web Development or maybe python? wait no, C ig.**
+- 🌱 I’m currently learning **JavaScript or maybe python? wait no, both ig.**
 
 - 🤝 I’m looking for help with **JS 💀**
 
