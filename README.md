@@ -8,6 +8,7 @@
 - 🤝 I’m looking for help with **JS 💀**
 
 - 📫 How to reach me: <a href="mailto:crystal@crystal.is-a.dev">crystal@crystal.is-a.dev</a> or [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TFgeN4Wsnn) 
-- https://linktr.ee/crystalbajgai
+
+- 📱 <a href="https://linktr.ee/crystalbajgai" target="_black">Socials</a>
 
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
