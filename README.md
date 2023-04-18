@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **JS 💀**
 
-- 📫 How to reach me: <a href="mailto:crystalbajgai@gmail.com">crystalbajgai@gmail.com</a> or Discord: <a href="https://discord.com/users/733166420510375936">Crissy#7622</a>
+- 📫 How to reach me: <a href="mailto:crystalbajgai@gmail.com">crystalbajgai@gmail.com</a> or Discord: <a href="https://discord.com/users/733166420510375936" target="_blank">Crissy#7622</a>
 
 - 📱 <a href="https://linktr.ee/crystalbajgai" target="_black">Socials</a>
 
