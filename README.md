@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Crystal.</h1>
-<h3 align="center">Just a random guy intrested in CS. I am just a student and I am learning some langauges ig?</h3>
+<h3 align="center"> A random guy interested in CS. I am just a student and I am learning some languages ig?</h3>
 
 - 🔭 I’m currently working on <a href="https://crystal.is-a.dev/" target="_blank">crystal.is-a.dev</a>
 
